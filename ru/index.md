@@ -8,4 +8,4 @@
 2. Сделать форк [https://github.com/evolution-cms/docs/](https://github.com/evolution-cms/docs/) к себе, нажав кнопку "Fork" справа вверху.
 3. Клонировать репозиторий к себе на диск и работать с ним локально, как и все (если вы разработчик)
 4. Если вы не разработчик, то можете просто отредактировать файлы *.md прямо на GitHub.
-5. Когда вы все сделали, вам следует [сделать "Pull Request"](https://help.github.com/articles/creating-a-pull-request) и отправить тем самым отправить изменения в этот репозиторий.
+5. Когда вы все сделали, вам следует [сделать "Pull Request"](https://help.github.com/articles/creating-a-pull-request) и тем самым отправить изменения в этот репозиторий.
